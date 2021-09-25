@@ -1,0 +1,13 @@
+.shop{
+  width: 75%;
+  background-color:rgb(255, 233, 136);
+}
+.search{
+  margin: 50px auto;
+}
+.meals{
+  width: 100%;
+  display: grid;
+  grid-template-columns: 33% 33% 33%;
+  /* grid-gap: 5px; */
+}
